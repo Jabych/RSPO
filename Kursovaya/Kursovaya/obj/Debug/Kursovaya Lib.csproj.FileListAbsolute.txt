@@ -1,0 +1,44 @@
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya Lib.csproj.AssemblyReference.cache
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya Lib.csproj.SuggestedBindingRedirects.cache
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.admincontrol.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.admiSelectControl.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.FormUserPassword.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.FormUserUpdate.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.MainForm.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya Lib.csproj.GenerateResource.cache
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya Lib.csproj.CoreCompileInputs.cache
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Prihod.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.PrihodAdd.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Nalichie.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.SellBook.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Check.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Sell.resources
+O:\__Колледж\__Курсовая\Kursovaya\Kursovaya\obj\Debug\Kursovaya.BookAdd.resources
+O:\__Матвей\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+O:\__Матвей\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+O:\__Матвей\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya Lib.csproj.AssemblyReference.cache
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya Lib.csproj.SuggestedBindingRedirects.cache
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.admincontrol.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.admiSelectControl.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.BookAdd.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Check.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.FormUserPassword.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.FormUserUpdate.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.MainForm.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Nalichie.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Prihod.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.PrihodAdd.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Sell.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.SellBook.resources
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya Lib.csproj.GenerateResource.cache
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya Lib.csproj.CoreCompileInputs.cache
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+O:\__Матвей\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
